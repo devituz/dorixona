@@ -3,6 +3,27 @@ class Assets {
   Assets._();
 
   static const String bannerPhoto20240716102550 = 'assets/banner/photo_2024-07-16_10-25-50.jpg';
+  static const String categoryYurak = 'assets/category/yurak.jpg';
+  static const String dorilaeAldaginRemovebgPreview = 'assets/dorilae/aldagin-removebg-preview.png';
+  static const String dorilaeArtokasanRemovebgPreview = 'assets/dorilae/artokasan-removebg-preview.png';
   static const String dorilaeBgImg = 'assets/dorilae/bg-img.png';
+  static const String dorilaeDentashanGel = 'assets/dorilae/Dentashan_gel.png';
+  static const String dorilaeDiklofenRemovebgPreview = 'assets/dorilae/diklofen-removebg-preview.png';
+  static const String dorilaeDorak = 'assets/dorilae/dorak.png';
+  static const String dorilaeEnorinRemovebgPreview = 'assets/dorilae/Enorin-removebg-preview.png';
+  static const String dorilaeFlenoks = 'assets/dorilae/Flenoks.png';
+  static const String dorilaeGidrotenKrem30g5 = 'assets/dorilae/Gidroten_krem_30g5.png';
+  static const String dorilaeKsefokamTabletkasi = 'assets/dorilae/Ksefokam_tabletkasi.png';
+  static const String dorilaeKsilometrRemovebgPreview = 'assets/dorilae/ksilometr-removebg-preview.png';
+  static const String dorilaeLazolvan = 'assets/dorilae/Lazolvan.png';
+  static const String dorilaeNosilsenRemovebgPreview = 'assets/dorilae/nosilsen-removebg-preview.png';
+  static const String dorilaeNurofen = 'assets/dorilae/Nurofen.png';
+  static const String dorilaePantenol = 'assets/dorilae/pantenol.png';
+  static const String dorilaePulmaksolSirop150ml = 'assets/dorilae/Pulmaksol_sirop_150ml.png';
+  static const String dorilaeSertofenRemovebgPreview = 'assets/dorilae/sertofen-removebg-preview.png';
+  static const String dorilaeSnapRemovebgPreview = 'assets/dorilae/snap-removebg-preview.png';
+  static const String mahsulotlarMahsulot = 'lib/list/mahsulotlar/mahsulot.json';
+  static const String mahsulotlarMahsulotBeta = 'lib/list/mahsulotlar/mahsulot_beta.json';
+  static const String sendSoundSend = 'assets/send_sound/send.wav';
 
 }

@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const Color bar_color = Color(0xFF614FE0);
+  static const Color bar_color = Color(0xFFFCFCFC);
   static const Color body_color_kun = Color(0xFF6D67E4);
 
   static const Color body_color_tun = Color(0xFF0B0E14);
@@ -20,8 +20,9 @@ class AppColors {
   static const Color Login_text1 = Color(0xFF4F82E0);
   static const Color icon_colors1 = Color(0xffbcc2d0);
   static const Color icon_colors2 = Color(0xff172c4b);
-  static const Color oq = Color(0xfff2f3f5);
-  static const Color Button = Color(0xFF4F82E0);
+  static const Color oq = Color(0xffffffff);
+  static const Color Button = Color(0xFFF9FAFF);
+  static const Color Buttond = Color(0xFFF9FAFF);
 
 
 

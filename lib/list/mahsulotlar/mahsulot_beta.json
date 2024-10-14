@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "img": "assets/dorilae/Ksefokam_tabletkasi.png",
+    "name": "Bepanten krem 5%30gr",
+    "from": "Germaniya",
+    "company": "Bayer",
+    "price": 5700,
+    "catgeoriya": "Yalliĝlanishga qarshi",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/Gidroten_krem_30g5.png",
+        "name": "Gidroten krem 30g5%",
+        "from": "Qozoĝiston",
+        "company": "Nobel",
+        "price": 35800,
+        "catgeoriya": "Dermatologik"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/pantenol.png",
+        "name": "pantenol",
+        "from": "Rossiya",
+        "company": "farmstandart pao",
+        "price": 58000,
+        "catgeoriya": "Dermatologik"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "assets/dorilae/Nurofen.png",
+    "name": "Nurofen",
+    "from": "Buyuk britaniya",
+    "company": "Reckitt Benkiser",
+    "price": 55000,
+    "catgeoriya": "Yalliĝlanishga qarshi",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/dorak.png",
+        "name": "Dolak tabletkasi 10mg N20",
+        "from": "Hindiston",
+        "company": "Candila Pharmaceuticals Limited",
+        "price": 9900,
+        "catgeoriya": "Yalliĝlanishga qarshi"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/pantenol.png",
+        "name": "pantenol",
+        "from": "Rossiya",
+        "company": "farmstandart pao",
+        "price": 58000,
+        "catgeoriya": "Dermatologik"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "assets/dorilae/Pulmaksol_sirop_150ml.png",
+    "name": "Pulmaksol sirop 150ml",
+    "from": "Turkiya",
+    "company": "Asfarma savdo MCHJ",
+    "price": 27000,
+    "catgeoriya": "shamollash va grip",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/Lazolvan.png",
+        "name": "Lazolvan tabletkasi30mgN50",
+        "from": "Òzbekiston",
+        "company": "Jurabek LabaratoriesOT MCHJ",
+        "price": 60000,
+        "catgeoriya": "Shamollash va grip uchun"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "assets/dorilae/Dentashan_gel.png",
+    "name": "Dentashan gel",
+    "from": "Hindiston",
+    "company": "Ganga heealthcareMCHJ",
+    "price": 23000,
+    "catgeoriya": "kamqonlik",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/Lazolvan.png",
+        "name": "Gemozin kapsulalari20mgN20",
+        "from": "Turkiya",
+        "company": "Welfar vst",
+        "price": 86000,
+        "catgeoriya": "Vitaminlar va kamqonlik"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "assets/dorilae/Flenoks.png",
+    "name": "Flenoks eritma 0.6ml N10",
+    "from": "Ukraina",
+    "company": "Ganga heealthcareMCHJ",
+    "price": 23000,
+    "catgeoriya": "Antitrombotik vosita",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/Lazolvan.png",
+        "name": "Ruparin ineksiya uchun eritma 0.4",
+        "from": "Hindiston",
+        "company": "New pharmacare OOO",
+        "price": 430000,
+        "catgeoriya": "Antitrombotik vosita"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/Enorin-removebg-preview.png",
+        "name": "Eniksum uneksiya uchun eritma 0.6ml N1",
+        "from": "Rossiya",
+        "company": "New pharmacare OOO",
+        "price": 430000,
+        "catgeoriya": "Kategoriyasi Antitrombotik vosita"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "assets/dorilae/artokasan-removebg-preview.png",
+    "name": "Artoksan kapsulalari 20mg N 10",
+    "from": "Misr",
+    "company": "Rotafarm kiminmted",
+    "price": 42400,
+    "catgeoriya": "Yalliĝlanishga qarshi",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/diklofen-removebg-preview.png",
+        "name": "Diklofenak tabletkalari 50mgN20",
+        "from": "Rassiya",
+        "company": "OOO OZON",
+        "price": 5600,
+        "catgeoriya": "Yalliĝlanishga qarshi"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/aldagin-removebg-preview.png",
+        "name": "Aldegin ineksion eritma ",
+        "from": "Turkiya",
+        "company": "Asfarma",
+        "price": 59900,
+        "catgeoriya": "Yalliĝlanishga qarshi"
+      },
+      {
+        "id": 3,
+        "img": "assets/dorilae/sertofen-removebg-preview.png",
+        "name": "Sertofen tabletkasi 25mg. N20",
+        "from": "Turkiya",
+        "company": "Dr.Sertus",
+        "price": 40000,
+        "catgeoriya": "Yalliĝlanishga qarshi. Mushak oĝriĝi"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "assets/dorilae/snap-removebg-preview.png",
+    "name": "Snup sprey 15ml 0.5% ",
+    "from": "Germaniya",
+    "company": "P MCHJ",
+    "price": 35000,
+    "catgeoriya": "Nazal vosita",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/nosilsen-removebg-preview",
+        "name": "Nosilin burun uchun tomchi 10ml 0.1% ",
+        "from": "Hindiston",
+        "company": "Yunik farm",
+        "price": 84521,
+        "catgeoriya": "Navzal vosita"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/ksilometr-removebg-preview.png",
+        "name": "Ksilomer S evkaliptom sptey 10ml",
+        "from": "Òzbekiston",
+        "company": "Aseptika",
+        "price": 12000,
+        "catgeoriya": "Navzal vosita"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "assets/dorilae/ksilometr-removebg-preview.png",
+    "name": "Ksilomer S evkaliptom sptey 10ml",
+    "from": "Òzbekiston",
+    "company": "Aseptika",
+    "price": 12000,
+    "catgeoriya": "Navzal vosita",
+    "analog": [
+      {
+        "id": 1,
+        "img": "assets/dorilae/Nurofen.png",
+        "name": "Nurofen",
+        "from": "Buyuk britaniya",
+        "company": "Reckitt Benkiser",
+        "price": 55000,
+        "catgeoriya": "Yalliĝlanishga qarshi"
+      },
+      {
+        "id": 2,
+        "img": "assets/dorilae/sertofen-removebg-preview.png",
+        "name": "Sertofen tabletkasi 25mg. N20",
+        "from": "Turkiya",
+        "company": "Dr.Sertus",
+        "price": 40000,
+        "catgeoriya": "Yalliĝlanishga qarshi. Mushak oĝriĝi"
+      }
+    ]
+  }
+
+]

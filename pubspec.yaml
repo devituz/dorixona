@@ -46,12 +46,20 @@ dependencies:
   dio: ^5.4.0
   dartz: ^0.10.1
   freezed: ^2.4.6
-  freezed_annotation: ^2.4.1
   google_fonts: ^6.1.06
   permission_handler: ^11.3.1
   http: ^1.2.1
   image_picker: ^1.1.1
   carousel_slider: ^4.2.1
+  simple_barcode_scanner: ^0.1.1
+  url_launcher: ^6.3.0
+  equatable: ^2.0.5
+  freezed_annotation: ^2.4.4
+  file_picker: ^8.0.6
+  audioplayers: ^6.0.0
+
+
+
 
 dev_dependencies:
   flutter_test:
@@ -63,7 +71,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.0
-
+  build_runner: ^2.4.11
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -108,4 +116,8 @@ flutter:
   assets:
     - assets/banner/
     - assets/dorilae/
+    - lib/list/mahsulotlar/mahsulot.json
+    - assets/category/
+    - assets/send_sound/
+    - lib/list/mahsulotlar/mahsulot_beta.json
 

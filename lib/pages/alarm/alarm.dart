@@ -12,11 +12,13 @@ class _AlarmState extends State<Alarm> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Alarm"),
+        title: Text("Budulnik"),
       ),
       body: Center(
-        child: Text("Alarm"),
+        child: Text("Budulnik bo'ladi"),
       ),
     );
   }
 }
+
+

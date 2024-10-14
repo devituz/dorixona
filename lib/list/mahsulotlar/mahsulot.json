@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "mahsulot_nomi": "bepantenkrem",
+    "mahsulot_rasmi": "assets/dorilae/bg-img.png",
+    "mahsulot_narxi": "60000",
+    "ishlab_chiqarilgan_joy": "SHVETSARIYA",
+
+  },
+  {
+    "id": 2,
+    "mahsulot_nomi": "bepantenkrem",
+    "mahsulot_rasmi": "assets/dorilae/bg-img.png",
+    "mahsulot_narxi": "60000",
+    "ishlab_chiqarilgan_joy": "SHVETSARIYA"
+  },
+  {
+    "id": 3,
+    "mahsulot_nomi": "bepantenkrem",
+    "mahsulot_rasmi": "assets/dorilae/bg-img.png",
+    "mahsulot_narxi": "60000",
+    "ishlab_chiqarilgan_joy": "SHVETSARIYA"
+  }
+]
